@@ -1,0 +1,644 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Metrophobic', sans-serif;
+}
+
+.navigation {
+    padding: 20px 0;
+    margin-bottom: 0px;
+}
+
+.navbar-header button span {
+    background-color: white;
+}
+
+.navbar-header img {
+    width: 100%;
+}
+
+#mynavbar ul li a {
+    font-size: 16px;
+    padding-top: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+#mynavbar ul li a:hover {
+    color: orangered;
+}
+
+/* second part */
+button {
+    margin: 20px 0;
+}
+
+.left {
+    padding: 90px 0;
+}
+
+.left h4 {
+    color: #FF5736;
+    padding-top: 55px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.register {
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+.register:hover {
+    color: white;
+}
+
+.download {
+    font-size: 20px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.download:hover {
+    background-color: orangered;
+    font-weight: bold;
+    color: white;
+}
+
+.plus {
+    color: orangered;
+}
+
+.left h1 {
+    padding-top: 15px;
+    font-weight: 900;
+    font-size: 66px;
+}
+
+.left p {
+    color: gray;
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+button {
+    font-family: 'Metrophobic', sans-serif;
+}
+
+hr {
+    background-color: gray;
+    height: 1px;
+    width: 95%;
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.half-image {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: -1;
+}
+
+.half-image img {
+    height: 850px;
+    width: 800px;
+}
+
+.second {
+    position: relative;
+}
+
+.ubraha img {
+    width: 70%;
+    margin-top: 30px;
+}
+
+.top h1 {
+    font-size: 60px;
+}
+
+.top p {
+    font-size: 16px;
+    font-weight: bolder;
+    padding-top: 0px;
+}
+
+/* third start */
+
+.third {
+    margin-top: 70px;
+}
+
+.third h4 {
+    padding-top: 80px;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+    color: .ten .first(99, 98, 98)
+}
+
+.third hr {
+    width: 100%;
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+
+.four-box img {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    width: 90%;
+}
+
+/* fourth box */
+.fourth .front h4 {
+    color: orangered;
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+.fourth .front h1 {
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.fourth .front p {
+    color: gray;
+    font-size: 19px;
+}
+
+.fourth .three-box {
+    padding-top: 80px;
+    padding-bottom: 180px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+.fourth .three-box h2 {
+    font-weight: bolder;
+    font-size: 29px;
+}
+
+.fourth .three-box p {
+    color: gray;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.mobile {
+    width: 90%;
+}
+
+/* fifth part */
+.fifth {
+    padding: 180px 0;
+}
+
+.left-fifth h1 {
+    font-size: 45px;
+    font-weight: bolder;
+    padding-top: 80px;
+}
+
+.left-fifth h5 {
+    font-size: 20px;
+    color: gray;
+    padding-top: 10px;
+}
+
+.left-fifth .two {
+    padding-top: 50px;
+}
+
+.left-fifth .two h2 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.left-fifth .two p {
+    font-size: 20px;
+    color: gray;
+}
+
+.right img {
+    width: 85%;
+    height: 750px;
+    margin-top: 40px;
+    float: right;
+    border-radius: 25px;
+}
+
+.fifth .center {
+    position: relative;
+    top: 50px;
+}
+
+.middle img {
+    width: 100%;
+    padding: 70px 0;
+}
+
+.middle {
+    position: absolute;
+    left: 0px;
+    width: 50%;
+}
+
+/* sixth part */
+
+.sixth {
+    width: 100%;
+    background-color: black;
+    margin-top: 90px;
+    position: relative;
+    overflow: hidden;
+    padding-block: 150px;
+    /* padding-bottom:290px; */
+}
+
+
+.main img {
+    width: 100%;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+
+.sixth-part h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    padding-top: 35%;
+}
+
+.sixth-part p {
+    color: white;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.img-parent {
+    position: absolute;
+    right: 0px;
+    padding: 0px;
+}
+
+.main {
+    padding: 0px;
+    padding-left: 10px;
+
+}
+
+.change-position {
+    position: relative;
+    top: -100px;
+}
+
+/* seventh part */
+.seventh p {
+    color: gray;
+    font-size: 20px;
+}
+
+.seventh-main {
+    padding-top: 190px;
+    text-align: center;
+}
+
+.seventh-main h5 {
+    color: orangered;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.seventh-main h1 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.three-box {
+    text-align: center;
+}
+
+.three-box .row {
+    padding: 45px;
+}
+
+.three-box h2 {
+    font-weight: bolder;
+}
+
+.seventh .center {
+    margin-bottom: 60px;
+}
+
+/* eight part */
+
+.eight {
+    margin-top: 250px;
+}
+
+.eight .orange {
+    height: 700px;
+    background-color: orangered;
+    border-radius: 40px;
+}
+
+.eight .address {
+    width: 75%;
+    padding-left: 70px;
+    margin-top: 80px;
+}
+
+.eight .boy {
+    width: 56%;
+    position: absolute;
+    left: 35%;
+    margin-top: 45%;
+    border-radius: 40px;
+}
+
+.eight h1 {
+    font-size: 45px;
+    font-weight: bolder;
+    padding-top: 90px;
+}
+
+.eight h3 {
+    font-weight: bolder;
+}
+
+.eight p {
+    font-size: 20px;
+    color: gray;
+}
+
+.eight .hassle {
+    padding-left: 40px;
+}
+
+.eight .bill img {
+    padding-top: 20px;
+}
+
+.eight .bill {
+    padding-top: 15px;
+}
+
+/* nine start */
+
+.nine {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.nine .orange {
+    height: 700px;
+    background-color: orangered;
+    border-radius: 40px;
+}
+
+.nine .address {
+    width: 90%;
+    padding-left: 25%;
+    margin-top: 70px;
+}
+
+.nine .boy {
+    width: 57%;
+    position: absolute;
+    left: 10%;
+    margin-top: 45%;
+    border-radius: 40px;
+}
+
+.nine h1 {
+    font-size: 45px;
+    font-weight: bolder;
+    padding-top: 90px;
+}
+
+.nine h3 {
+    font-weight: bolder;
+}
+
+.nine p {
+    font-size: 20px;
+    color: gray;
+}
+
+.nine .hassle {
+    padding-right: 40px;
+}
+
+.nine .bill img {
+    padding-top: 20px;
+}
+
+.nine .bill {
+    padding-top: 15px;
+}
+
+/* ten start */
+.ten .first {
+    margin-top: 50px;
+}
+
+.ten .sixbox {
+    margin-top: 35px;
+}
+
+.sixbox img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.sixbox .bountre {
+    border: 1px solid #dbddbd9d;
+    border-radius: 25px;
+    /* width: 31%; */
+    /* margin: 1%; */
+    padding: 10px 2%;
+}
+
+.ten h1 {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.ten p {
+    font-size: 20px;
+    color: gray;
+}
+
+.ten .batn {
+    margin-top: 40px;
+    text-align: right;
+}
+
+.ten .batn .download {
+    margin-right: 0;
+}
+
+.ten span {
+    font-size: 25px;
+    color: #1ba4ff;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.ten span:hover {
+    color: white;
+    background-color: #1ba4ff;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.sixbox .bountre h3 {
+    font-size: 19px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.sixbox .bountre h4 {
+    color: orangered;
+}
+
+.sixbox .bountre p {
+    margin: 20px 0;
+}
+
+.sixbox .bountre .john {
+    padding-left: 0px;
+}
+
+.sixbox .bountre .row {
+    padding: 10px 6%;
+}
+
+/* eleventh */
+.full-eleventh {
+    width: 100%;
+    background-color: black;
+    padding: 90px 0;
+    margin-top: 380px;
+}
+
+.eleventh .front h1 {
+    color: white;
+    font-weight: bolder;
+    font-size: 55px;
+}
+
+.eleventh .front p {
+    color: white;
+    font-size: 20px;
+}
+
+.eleventh .backed .imagetwo {
+    position: absolute;
+    margin-top: -236px;
+    width: 60%;
+}
+
+.eleventh .backed .imageone {
+    margin-top: -236px;
+    width: 64%;
+}
+
+/* twelve */
+.twelve {
+    padding: 70px 0;
+    margin-top: 40px;
+    border-bottom: 1px solid gray;
+}
+
+.twelve span {
+    font-size: 25px;
+}
+
+.twelve p {
+    font-size: 20px;
+}
+
+.twelve .deliver {
+    display: block;
+    padding-bottom: 20px;
+}
+
+.twelve img {
+    width: 35%;
+}
+
+/* thirteen */
+.thirteen {
+    padding: 90px 0;
+    margin-bottom: 40px;
+}
+
+.main h3 {
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+.fourimage h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fourimage img {
+    border-radius: 20px;
+    width: 90%;
+}
+
+.ancor a {
+    color: gray;
+    font-size: 19px;
+    text-decoration: none;
+    display: block;
+}
+
+.ancor a:hover {
+    color: orangered;
+}
+
+.ancor .bottom-text {
+    color: orangered;
+    font-size: 21px;
+    font-weight: bold;
+    border-bottom: 2px solid orangered;
+    display: inline;
+    padding-bottom: 6px;
+}
+
+.ancor .bottom-text:hover {
+    color: black;
+    border-color: black;
+}
+
+/* footer */
+.footer {
+    padding: 35px 0;
+    border-top: 1px solid rgb(163, 161, 161);
+}
+
+.footer p {
+    font-size: 19px;
+    color: gray;
+}
+
+.footer a {
+    text-decoration: none;
+    color: orangered;
+}
+
+.footer a:hover {
+    color: black;
+}
